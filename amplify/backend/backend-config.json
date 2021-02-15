@@ -1,0 +1,10 @@
+{
+  "auth": {
+    "dssamplifydemov16877c951": {
+      "service": "Cognito",
+      "providerPlugin": "awscloudformation",
+      "dependsOn": [],
+      "customAuth": false
+    }
+  }
+}
